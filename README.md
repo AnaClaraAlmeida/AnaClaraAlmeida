@@ -4,16 +4,20 @@ Com 7 anos de experiência como Analista de Dados, minha paixão está em transf
 
 ## Destaques da Minha Trajetória
 
-- **2024:** Reconhecida por liderar a gestão de dados em um projeto premiado com uma das maiores distribuidoras de combustíveis do Brasil, que recuperou mais de **R$ 23 milhões** em débitos em aberto, trazendo resultados financeiros expressivos.
-- Atualmente, gerencio dados em um programa de compensação financeira para uma das maiores indústrias químicas do país, que já distribuiu mais de **R$ 4 bilhões** a mais de 60 mil pessoas, com foco em precisão, eficiência e otimização de processo.
+- 2024: Reconhecida por liderar a gestão de dados em um projeto premiado com uma das maiores distribuidoras de combustíveis do Brasil, que recuperou mais de R$ 23 milhões em débitos em aberto, trazendo resultados financeiros expressivos.
+- 2022 - 2025: Responsável pela gestão de dados em um programa de compensação financeira para uma das maiores indústrias químicas do Brasil, com mais de R$ 4 bilhões pagos a mais de 60 mil pessoas.
+
+Atualmente, atuo na Flash, com foco em People Analytics, onde desenvolvo análises e soluções que apoiam decisões estratégicas.
 
 ## Key Skills & Tools
 
-- **Análise de Dados e Business Intelligence:** Looker Studio, Power BI, SQL, DAX  
-- **ETL e Transformação de Dados:** Power Query, Linguagem M, BigQuery, MySQL, Python  
-- **Excel Avançado:** Fórmulas complexas, modelagem de dados e automação  
-- **Gestão de Projetos:** Liderança de iniciativas orientadas por dados com resultados mensuráveis  
-- **Insights Estratégicos:** Elaboração de relatórios acionáveis para decisões de alto impacto  
+• Análise de Dados & Business Intelligence: Looker Studio, Power BI, Metabase e Streamlit.
+• ETL & Transformação de Dados: Databricks, Power Query.
+• Linguagens & Programação: SQL e Python 
+• Excel Avançado: Fórmulas complexas, modelagem de dados e automações
+• Gestão de Projetos: Liderança de iniciativas orientadas por dados com resultados mensuráveis
+• People Analytics: Análises sobre performance, engajamento, movimentações e jornada de colaboradores
+• Insights Estratégicos: Criação de relatórios acionáveis e visualizações interativas para apoiar decisões de alto impacto
 
 Estou sempre em busca de novos desafios e oportunidades que me permitam usar minha expertise técnica para resolver problemas complexos e gerar impacto real.  
 
