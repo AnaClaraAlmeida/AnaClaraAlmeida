@@ -11,13 +11,13 @@ Atualmente, atuo na Flash, com foco em People Analytics, onde desenvolvo anális
 
 ## Key Skills & Tools
 
-• Análise de Dados & Business Intelligence: Looker Studio, Power BI, Metabase e Streamlit.
-• ETL & Transformação de Dados: Databricks, Power Query.
-• Linguagens & Programação: SQL e Python 
-• Excel Avançado: Fórmulas complexas, modelagem de dados e automações
-• Gestão de Projetos: Liderança de iniciativas orientadas por dados com resultados mensuráveis
-• People Analytics: Análises sobre performance, engajamento, movimentações e jornada de colaboradores
-• Insights Estratégicos: Criação de relatórios acionáveis e visualizações interativas para apoiar decisões de alto impacto
+- **Análise de Dados & Business Intelligence:** Looker Studio, Power BI, Metabase, Streamlit  
+- **ETL & Transformação de Dados:** Databricks, Power Query  
+- **Linguagens & Programação:** SQL, Python  
+- **Excel Avançado:** Fórmulas complexas, modelagem de dados e automações  
+- **Gestão de Projetos:** Liderança de iniciativas orientadas por dados com resultados mensuráveis  
+- **People Analytics:** Análises sobre performance, engajamento, movimentações e jornada de colaboradores  
+- **Insights Estratégicos:** Criação de relatórios acionáveis e visualizações interativas para apoiar decisões de alto impacto
 
 Estou sempre em busca de novos desafios e oportunidades que me permitam usar minha expertise técnica para resolver problemas complexos e gerar impacto real.  
 
